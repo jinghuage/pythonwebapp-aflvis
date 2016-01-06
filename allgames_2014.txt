@@ -1,0 +1,207 @@
+1,Collingwood,Fremantle,46,116
+1,Greater Western Sydney,Sydney,99,67
+1,Gold Coast,Richmond,87,69
+1,Carlton,Port Adelaide,87,120
+1,Geelong,Adelaide,119,81
+1,North Melbourne,Essendon,60,99
+1,Hawthorn,Brisbane Lions,139,91
+1,St Kilda,Melbourne,68,51
+1,West Coast,Western Bulldogs,134,69
+2,Richmond,Carlton,98,86
+2,Essendon,Hawthorn,86,90
+2,St Kilda,Greater Western Sydney,95,88
+2,Port Adelaide,Adelaide,127,73
+2,Fremantle,Gold Coast,87,39
+2,Sydney,Collingwood,69,89
+2,Brisbane Lions,Geelong,68,93
+2,Melbourne,West Coast,30,123
+2,Western Bulldogs,North Melbourne,54,83
+3,Hawthorn,Fremantle,137,79
+3,Western Bulldogs,Richmond,100,98
+3,Adelaide,Sydney,71,134
+3,Gold Coast,Brisbane Lions,114,61
+3,West Coast,St Kilda,83,58
+3,Collingwood,Geelong,76,87
+3,Greater Western Sydney,Melbourne,79,47
+3,North Melbourne,Port Adelaide,97,90
+3,Essendon,Carlton,138,57
+4,Richmond,Collingwood,72,110
+4,Carlton,Melbourne,58,81
+4,Port Adelaide,Brisbane Lions,159,46
+4,Greater Western Sydney,Western Bulldogs,83,110
+4,Geelong,West Coast,107,32
+4,Gold Coast,Hawthorn,49,148
+4,Sydney,North Melbourne,48,91
+4,St Kilda,Adelaide,50,136
+4,Fremantle,Essendon,113,60
+5,Brisbane Lions,Richmond,63,106
+5,Collingwood,North Melbourne,93,58
+5,Sydney,Fremantle,92,75
+5,West Coast,Port Adelaide,56,70
+5,Essendon,St Kilda,65,81
+5,Adelaide,Greater Western Sydney,137,72
+5,Melbourne,Gold Coast,78,86
+5,Western Bulldogs,Carlton,91,119
+5,Geelong,Hawthorn,106,87
+6,Collingwood,Essendon,83,60
+6,St Kilda,Brisbane Lions,79,82
+6,Fremantle,North Melbourne,61,74
+6,Gold Coast,Greater Western Sydney,134,94
+6,Carlton,West Coast,92,89
+6,Melbourne,Sydney,38,69
+6,Western Bulldogs,Adelaide,83,92
+6,Richmond,Hawthorn,52,118
+6,Port Adelaide,Geelong,107,67
+7,Carlton,Collingwood,70,104
+7,Hawthorn,St Kilda,175,30
+7,Greater Western Sydney,Port Adelaide,97,132
+7,Adelaide,Melbourne,67,70
+7,Essendon,Western Bulldogs,73,65
+7,Brisbane Lions,Sydney,44,123
+7,North Melbourne,Gold Coast,77,120
+7,Geelong,Richmond,81,76
+7,West Coast,Fremantle,54,73
+8,Sydney,Hawthorn,107,88
+8,Port Adelaide,Fremantle,94,76
+8,Brisbane Lions,Essendon,57,65
+8,Melbourne,Western Bulldogs,83,99
+8,West Coast,Greater Western Sydney,188,77
+8,St Kilda,Carlton,69,101
+9,Adelaide,Collingwood,76,55
+9,Essendon,Sydney,64,114
+9,Richmond,Melbourne,74,91
+9,North Melbourne,Brisbane Lions,125,38
+9,Fremantle,Geelong,96,64
+9,St Kilda,Gold Coast,87,125
+10,Geelong,North Melbourne,111,91
+10,Greater Western Sydney,Richmond,41,154
+10,Collingwood,West Coast,109,101
+10,Port Adelaide,Hawthorn,100,86
+10,Gold Coast,Western Bulldogs,119,74
+10,Carlton,Adelaide,81,76
+11,Sydney,Geelong,148,38
+11,St Kilda,Collingwood,54,140
+11,Melbourne,Port Adelaide,75,95
+11,Brisbane Lions,Carlton,98,91
+11,Essendon,Richmond,104,54
+11,Adelaide,Gold Coast,109,77
+11,Western Bulldogs,Fremantle,51,89
+11,Hawthorn,Greater Western Sydney,94,87
+11,West Coast,North Melbourne,44,82
+12,Geelong,Carlton,107,102
+12,Hawthorn,West Coast,123,79
+12,Port Adelaide,St Kilda,129,59
+12,Greater Western Sydney,Essendon,66,81
+12,Western Bulldogs,Brisbane Lions,87,95
+12,Gold Coast,Sydney,74,109
+12,Fremantle,Adelaide,90,50
+12,North Melbourne,Richmond,116,88
+12,Melbourne,Collingwood,28,61
+13,Carlton,Hawthorn,90,118
+13,Richmond,Fremantle,85,105
+13,Sydney,Port Adelaide,98,94
+13,West Coast,Gold Coast,103,100
+13,Adelaide,North Melbourne,109,73
+13,Brisbane Lions,Greater Western Sydney,80,125
+13,Geelong,St Kilda,133,37
+13,Collingwood,Western Bulldogs,98,106
+13,Essendon,Melbourne,77,78
+14,Richmond,Sydney,51,62
+14,Port Adelaide,Western Bulldogs,128,56
+14,Hawthorn,Collingwood,115,86
+14,Gold Coast,Geelong,118,78
+14,Fremantle,Brisbane Lions,105,22
+14,Essendon,Adelaide,101,92
+14,Greater Western Sydney,Carlton,100,92
+14,St Kilda,West Coast,70,103
+14,Melbourne,North Melbourne,66,107
+15,Geelong,Essendon,89,80
+15,Hawthorn,Gold Coast,116,63
+15,St Kilda,Richmond,73,117
+15,Fremantle,West Coast,88,81
+15,Brisbane Lions,North Melbourne,70,66
+15,Sydney,Greater Western Sydney,106,60
+15,Western Bulldogs,Melbourne,91,85
+15,Adelaide,Port Adelaide,99,76
+15,Collingwood,Carlton,91,76
+16,North Melbourne,Hawthorn,108,88
+16,Richmond,Brisbane Lions,79,54
+16,Greater Western Sydney,Adelaide,72,140
+16,Gold Coast,Collingwood,80,75
+16,Port Adelaide,Essendon,60,62
+16,Melbourne,Fremantle,34,97
+16,Carlton,St Kilda,151,66
+16,West Coast,Sydney,51,79
+16,Geelong,Western Bulldogs,69,56
+17,Adelaide,Hawthorn,92,104
+17,Melbourne,Geelong,36,102
+17,North Melbourne,St Kilda,92,33
+17,Western Bulldogs,Gold Coast,94,66
+17,Sydney,Carlton,122,51
+17,Brisbane Lions,West Coast,64,76
+17,Richmond,Port Adelaide,126,106
+17,Essendon,Collingwood,103,39
+17,Fremantle,Greater Western Sydney,136,60
+18,Carlton,North Melbourne,109,86
+18,St Kilda,Fremantle,118,60
+18,Greater Western Sydney,Geelong,87,94
+18,Port Adelaide,Melbourne,72,69
+18,Western Bulldogs,Essendon,94,101
+18,West Coast,Richmond,42,59
+18,Brisbane Lions,Gold Coast,110,56
+18,Hawthorn,Sydney,104,94
+18,Collingwood,Adelaide,82,98
+19,Fremantle,Carlton,83,78
+19,Sydney,Essendon,79,57
+19,Adelaide,West Coast,105,136
+19,Richmond,Greater Western Sydney,89,62
+19,North Melbourne,Geelong,79,111
+19,Gold Coast,St Kilda,117,64
+19,Melbourne,Brisbane Lions,51,74
+19,Hawthorn,Western Bulldogs,107,45
+19,Collingwood,Port Adelaide,76,70
+20,Richmond,Essendon,95,77
+20,Greater Western Sydney,North Melbourne,51,126
+20,Carlton,Gold Coast,97,58
+20,Hawthorn,Melbourne,115,65
+20,Port Adelaide,Sydney,58,84
+20,Geelong,Fremantle,81,79
+20,Brisbane Lions,Adelaide,63,168
+20,St Kilda,Western Bulldogs,99,122
+20,West Coast,Collingwood,126,66
+21,Carlton,Geelong,76,82
+21,Sydney,St Kilda,127,56
+21,Gold Coast,Port Adelaide,47,56
+21,Essendon,West Coast,77,74
+21,Adelaide,Richmond,69,79
+21,Collingwood,Brisbane Lions,56,123
+21,North Melbourne,Western Bulldogs,111,61
+21,Melbourne,Greater Western Sydney,34,98
+21,Fremantle,Hawthorn,110,91
+22,Port Adelaide,Carlton,140,37
+22,North Melbourne,Adelaide,101,94
+22,Essendon,Gold Coast,108,89
+22,Greater Western Sydney,Collingwood,67,75
+22,West Coast,Melbourne,119,53
+22,Hawthorn,Geelong,94,71
+22,Brisbane Lions,Fremantle,48,106
+22,Western Bulldogs,Sydney,67,130
+22,Richmond,St Kilda,98,72
+23,Collingwood,Hawthorn,56,121
+23,Carlton,Essendon,90,90
+23,Fremantle,Port Adelaide,105,97
+23,Sydney,Richmond,65,68
+23,Geelong,Brisbane Lions,143,81
+23,North Melbourne,Melbourne,123,93
+23,Gold Coast,West Coast,99,151
+23,Adelaide,St Kilda,141,62
+23,Western Bulldogs,Greater Western Sydney,109,115
+Finals,Hawthorn,Geelong,104,68
+Finals,Sydney,Fremantle,93,69
+Finals,North Melbourne,Essendon,93,81
+Finals,Port Adelaide,Richmond,132,75
+Finals,North Melbourne,Geelong,98,92
+Finals,Port Adelaide,Fremantle,105,83
+Finals,Sydney,North Melbourne,136,65
+Finals,Hawthorn,Port Adelaide,97,94
+Finals,Hawthorn,Sydney,137,74

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AFL Stats</title>
+    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="/web/assets/css/aflvis.css" />
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="/web/assets/js/Console.js"></script>
+    <script src="/web/assets/js/Figure.js"></script>
+    <script src="/web/assets/js/wshandler.js"></script>
+    <script src="/web/assets/js/WebSocketClient.js"></script>
+
+  </head>
+  <body>
+    <div id="content">
+      
+      <h1>Australia Football League (AFL) Game statistics visualization</h1>
+      
+      
+      <div id="figcontrol">
+        <label>Year</label>
+        <select id="year"></select>
+        <button id="summary">Plot Year Summary</button>
+        <button id="plotgame-all">Plot All Team Performance</button>
+
+        <br>
+        <label> Round: </label>
+        <select id="round"></select>
+        <button id="plotgame-round">Plot Games by Round</button>
+        <button id="plotgame-final">Plot Final Games</button>
+        <br>
+
+        <label> team: </label>
+        <select id="team"></select>
+        <button id="plotgame-team1">Plot Games as Team1</button>
+        <button id="plotgame-team2">Plot Games as Team2</button>
+        <br>
+      </div>
+
+      <div class="text_io" id="console"></div>
+
+      <div id="figs"></div>
+
+    </div><!-- #content -->
+
+    <script src="/web/assets/js/aflvis.js"></script>
+  </body>
+</html>

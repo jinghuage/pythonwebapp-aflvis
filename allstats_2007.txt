@@ -1,0 +1,370 @@
+1,Melbourne,St Kilda,62,93
+
+1,Kangaroos,Collingwood,79,82
+
+1,Fremantle,Port Adelaide,105,121
+
+1,Brisbane Lions,Hawthorn,69,44
+
+1,Sydney,West Coast,73,74
+
+1,Adelaide,Essendon,74,105
+
+1,Western Bulldogs,Geelong,113,93
+
+1,Carlton,Richmond,115,98
+
+2,Brisbane Lions,St Kilda,102,50
+
+2,Richmond,Sydney,72,88
+
+2,Geelong,Carlton,162,84
+
+2,West Coast,Collingwood,87,75
+
+2,Port Adelaide,Kangaroos,122,104
+
+2,Essendon,Fremantle,122,112
+
+2,Western Bulldogs,Adelaide,72,110
+
+2,Hawthorn,Melbourne,116,94
+
+3,Collingwood,Richmond,115,90
+
+3,Carlton,Essendon,125,122
+
+3,Port Adelaide,Adelaide,63,87
+
+3,St Kilda,Western Bulldogs,116,66
+
+3,Fremantle,West Coast,70,101
+
+3,Sydney,Brisbane Lions,96,69
+
+3,Melbourne,Geelong,57,109
+
+3,Kangaroos,Hawthorn,70,91
+
+4,Richmond,Western Bulldogs,100,132
+
+4,Collingwood,Port Adelaide,66,84
+
+4,St Kilda,Essendon,68,99
+
+4,Kangaroos,Brisbane Lions,87,63
+
+4,Adelaide,Sydney,61,44
+
+4,Hawthorn,Geelong,76,72
+
+4,Melbourne,Fremantle,92,137
+
+4,West Coast,Carlton,100,39
+
+5,Essendon,Collingwood,79,95
+
+5,Port Adelaide,St Kilda,96,43
+
+5,Richmond,West Coast,76,99
+
+5,Carlton,Brisbane Lions,124,136
+
+5,Sydney,Melbourne,109,60
+
+5,Hawthorn,Western Bulldogs,93,110
+
+5,Geelong,Kangaroos,102,118
+
+5,Fremantle,Adelaide,58,57
+
+6,St Kilda,Carlton,125,82
+
+6,Essendon,Hawthorn,96,131
+
+6,West Coast,Western Bulldogs,77,62
+
+6,Kangaroos,Sydney,111,95
+
+6,Adelaide,Collingwood,62,86
+
+6,Brisbane Lions,Fremantle,120,75
+
+6,Melbourne,Port Adelaide,71,76
+
+6,Richmond,Geelong,65,222
+
+7,Kangaroos,Essendon,117,95
+
+7,Collingwood,Carlton,119,95
+
+7,Port Adelaide,Richmond,115,75
+
+7,Brisbane Lions,Adelaide,69,100
+
+7,St Kilda,Sydney,97,71
+
+7,Geelong,West Coast,109,70
+
+7,Western Bulldogs,Melbourne,112,106
+
+7,Fremantle,Hawthorn,96,80
+
+8,Adelaide,Richmond,99,90
+
+8,Essendon,Brisbane Lions,127,63
+
+8,Geelong,Fremantle,94,69
+
+8,Kangaroos,Carlton,147,130
+
+8,Hawthorn,St Kilda,72,44
+
+8,Sydney,Port Adelaide,118,87
+
+8,Western Bulldogs,Collingwood,135,102
+
+8,West Coast,Melbourne,137,60
+
+9,Fremantle,St Kilda,101,55
+
+9,Carlton,Adelaide,86,105
+
+9,Hawthorn,West Coast,99,64
+
+9,Richmond,Essendon,84,92
+
+9,Brisbane Lions,Collingwood,87,120
+
+9,Western Bulldogs,Sydney,57,100
+
+9,Melbourne,Kangaroos,78,79
+
+9,Port Adelaide,Geelong,60,116
+
+10,Collingwood,Fremantle,103,94
+
+10,Melbourne,Adelaide,89,72
+
+10,West Coast,Kangaroos,121,55
+
+10,Sydney,Essendon,73,74
+
+10,Richmond,Brisbane Lions,73,73
+
+10,Port Adelaide,Hawthorn,75,109
+
+10,Carlton,Western Bulldogs,138,128
+
+10,St Kilda,Geelong,65,125
+
+11,Essendon,West Coast,95,94
+
+11,Hawthorn,Sydney,66,75
+
+11,Carlton,Port Adelaide,141,102
+
+11,Brisbane Lions,Western Bulldogs,72,95
+
+11,Adelaide,Geelong,62,69
+
+11,St Kilda,Kangaroos,58,80
+
+11,Fremantle,Richmond,123,102
+
+11,Melbourne,Collingwood,94,81
+
+12,Carlton,Hawthorn,80,180
+
+12,Kangaroos,Adelaide,54,100
+
+12,Western Bulldogs,Fremantle,141,115
+
+12,Geelong,Brisbane Lions,85,35
+
+12,Port Adelaide,Essendon,126,95
+
+12,Richmond,Melbourne,124,75
+
+12,Sydney,Collingwood,57,76
+
+12,West Coast,St Kilda,76,99
+
+13,Essendon,Melbourne,125,123
+
+13,Geelong,Sydney,87,69
+
+13,Fremantle,Carlton,173,96
+
+13,Brisbane Lions,Port Adelaide,105,112
+
+13,St Kilda,Richmond,117,100
+
+13,Adelaide,West Coast,74,95
+
+13,Kangaroos,Western Bulldogs,111,85
+
+13,Collingwood,Hawthorn,87,95
+
+14,Essendon,Geelong,83,133
+
+14,Collingwood,St Kilda,89,80
+
+14,Western Bulldogs,Port Adelaide,133,113
+
+14,West Coast,Brisbane Lions,64,91
+
+14,Adelaide,Hawthorn,102,31
+
+14,Sydney,Fremantle,89,61
+
+14,Carlton,Melbourne,101,124
+
+14,Richmond,Kangaroos,79,104
+
+15,St Kilda,Adelaide,82,80
+
+15,Geelong,Collingwood,80,64
+
+15,Port Adelaide,West Coast,153,62
+
+15,Essendon,Western Bulldogs,98,131
+
+15,Melbourne,Brisbane Lions,82,126
+
+15,Sydney,Carlton,162,100
+
+15,Hawthorn,Richmond,129,76
+
+15,Fremantle,Kangaroos,78,82
+
+16,Geelong,Western Bulldogs,138,63
+
+16,Collingwood,Essendon,122,93
+
+16,Adelaide,Fremantle,101,126
+
+16,St Kilda,Hawthorn,95,78
+
+16,West Coast,Sydney,112,100
+
+16,Brisbane Lions,Carlton,163,46
+
+16,Richmond,Port Adelaide,100,155
+
+16,Kangaroos,Melbourne,126,62
+
+17,Western Bulldogs,West Coast,71,158
+
+17,Carlton,St Kilda,101,111
+
+17,Fremantle,Geelong,72,140
+
+17,Collingwood,Brisbane Lions,56,149
+
+17,Sydney,Richmond,138,72
+
+17,Hawthorn,Kangaroos,71,108
+
+17,Essendon,Adelaide,117,105
+
+17,Port Adelaide,Melbourne,163,74
+
+18,Western Bulldogs,St Kilda,85,85
+
+18,Carlton,Collingwood,96,120
+
+18,Geelong,Richmond,139,69
+
+18,Brisbane Lions,Kangaroos,77,40
+
+18,Adelaide,Port Adelaide,73,65
+
+18,Melbourne,Sydney,64,112
+
+18,Hawthorn,Essendon,119,56
+
+18,West Coast,Fremantle,97,124
+
+19,Richmond,Collingwood,116,96
+
+19,Hawthorn,Brisbane Lions,115,91
+
+19,Port Adelaide,Carlton,116,93
+
+19,Melbourne,Western Bulldogs,129,87
+
+19,Sydney,St Kilda,82,65
+
+19,Kangaroos,West Coast,102,119
+
+19,Geelong,Adelaide,103,70
+
+19,Fremantle,Essendon,140,77
+
+20,Collingwood,Melbourne,81,70
+
+20,Essendon,Carlton,118,108
+
+20,St Kilda,Fremantle,126,96
+
+20,Brisbane Lions,Sydney,63,63
+
+20,West Coast,Richmond,117,86
+
+20,Hawthorn,Port Adelaide,82,87
+
+20,Kangaroos,Geelong,91,118
+
+20,Adelaide,Western Bulldogs,107,73
+
+21,St Kilda,West Coast,98,106
+
+21,Carlton,Kangaroos,79,161
+
+21,Fremantle,Melbourne,144,85
+
+21,Collingwood,Sydney,101,76
+
+21,Adelaide,Brisbane Lions,86,60
+
+21,Western Bulldogs,Hawthorn,67,151
+
+21,Geelong,Port Adelaide,101,106
+
+21,Essendon,Richmond,92,119
+
+22,Collingwood,Adelaide,75,94
+
+22,Richmond,St Kilda,92,102
+
+22,West Coast,Essendon,132,124
+
+22,Brisbane Lions,Geelong,103,145
+
+22,Port Adelaide,Fremantle,117,85
+
+22,Sydney,Hawthorn,141,69
+
+22,Western Bulldogs,Kangaroos,93,157
+
+22,Melbourne,Carlton,139,108
+
+Finals,Port Adelaide,West Coast,68,65
+
+Finals,Hawthorn,Adelaide,105,102
+
+Finals,Collingwood,Sydney,125,87
+
+Finals,Geelong,Kangaroos,156,50
+
+Finals,Collingwood,West Coast,93,74
+
+Finals,Kangaroos,Hawthorn,93,60
+
+Finals,Geelong,Collingwood,92,87
+
+Finals,Port Adelaide,Kangaroos,133,46
+
+Finals,Geelong,Port Adelaide,163,44
+
