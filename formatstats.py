@@ -1,3 +1,11 @@
+#
+# format stats line into csv tuples and save 
+# example stats line: Scott Pendlebury goal,2m 4s,1.0.6 - 0.0.0,,
+# example csv tuples: Scott Pendlebury,6,124,None,0,Collingwood,Fremantle,1,1
+# columns=['player1','score1', 'time', 'player2', 'score2','team1','team2','round', 'game']
+#
+
+
 import re,os,math
 
 

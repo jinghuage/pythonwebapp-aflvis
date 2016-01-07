@@ -1,4 +1,7 @@
-
+#
+# mine the stats data from http://afltables.com/afl/seas/
+# downloaded from IPython notebook
+#
 # coding: utf-8
 
 # In[1]:
@@ -6,6 +9,10 @@
 import urllib2
 import re
 
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# first let's do some test to confirm the yearly link html, 
+# and use regular expression to filter out data we want
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 response = urllib2.urlopen('http://afltables.com/afl/seas/season_idx.html')
 print response.info()
@@ -13,12 +20,13 @@ print response.info()
 html = response.read()
 #print html
 
+
 # find href link '2014.html' for <a href='2014.html'>2014</a>
 thelink = ''
 lines = html.split('\n')
 for line in lines:
     #print line
-    if '2013</a>' in line:
+    if '2014</a>' in line:
         print line
         thelink = re.findall(r'"(.*?)"', line)[0]
         break
@@ -58,6 +66,14 @@ if 'Match stats' in s2:
     score = re.findall(r'> (\d+)<', s2)[0]
     print score
 
+
+
+
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# provide a year, mine stats data for that year
+# step 1: find all games and save their stats link
+# step 2: for each game, follow their stats link and download progression data 
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 # In[21]:
 
